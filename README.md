@@ -1,12 +1,39 @@
-# React + Vite
+# 🎮 Conecta 4 - Juego clásico en React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un sencillo pero completo clon del clásico juego **Conecta 4 (4 en raya)**, desarrollado con **React**. El objetivo es conectar 4 fichas del mismo color en línea (horizontal, vertical o diagonal) antes que tu oponente.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 Características
 
-## Expanding the ESLint configuration
+- ♟️ Dos jugadores: **Jugador rojo** vs **Jugador amarillo**.
+- 🧠 Lógica de victoria completamente implementada.
+- 💥 Efecto de confeti al ganar una partida.
+- 📦 Diálogo emergente (Modal) para mostrar el ganador.
+- 🌀 Posibilidad de reiniciar la partida fácilmente.
+- ⚙️ Estilo visual moderno y sencillo.
+- ✅ Código modular y comentado, ideal para aprender React.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Instalación
+
+1. Clona este repositorio:
+
+```bash
+git clone https://github.com/tu-usuario/conecta4-react.git
+cd conecta4-react
+Instala las dependencias:
+
+bash
+Copiar
+Editar
+npm install
+Inicia el servidor de desarrollo:
+
+bash
+Copiar
+Editar
+npm run dev
+Abre tu navegador en: http://localhost:5173
+
