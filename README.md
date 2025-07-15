@@ -21,12 +21,16 @@ Este es un sencillo pero completo clon del clásico juego **Conecta 4 (4 en raya
 1. Clona este repositorio:
 
 git clone https://github.com/tu-usuario/conecta4-react.git
+
 cd conecta4-react
 
-Instala las dependencias:
+2. Instala las dependencias:
+
 npm install
-Inicia el servidor de desarrollo:
+
+3. Inicia el servidor de desarrollo:
 
 npm run dev
+
 Abre tu navegador en: http://localhost:5173
 
